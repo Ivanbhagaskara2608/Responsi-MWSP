@@ -44,10 +44,7 @@ Gunakan API endpoint untuk mengambil data produk dan tampilkan di halaman utama 
 ## **Hasil Aplikasi** 🎥
 
 Berikut adalah video demo aplikasi yang menunjukkan bagaimana aplikasi menampilkan daftar produk setelah login:
-<video width="100%" controls>
-  <source src="assets/running-program.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Running Program](assets/hasil-running-program.png)
 
 ---
 
